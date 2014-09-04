@@ -4,6 +4,8 @@ PlayingWithGatling
 Here is a Gatling project for Performance testing for login scenario of twitter account. 
 This is modularize project to setup large performance testing scala script for [Gatling](https://github.com/gatling/gatling) Open Sourse Stress testing tool.
 
+![alt tag](https://raw.githubusercontent.com/swapnilvkotwal/PlayingWithGatling/gatling_image/Gatling.png)
+
 ###### Why Gatling:
 1. High Performance.
 2. Multi Threading vs (Akka) Actor Model.
