@@ -12,7 +12,7 @@ This is modularize project to setup large performance testing scala script for [
 3. Synchronous Blocking IOs vs asynchronous Non-blocking IOs Netty.
 
 ###### Instructions:
-1. Download gatling
+1. Download [Gatling](http://gatling.io/download/)
 2. Create csv file with valid credentials, under ```\user-files\data```
 3. Copy scala code from ```PlayingWithGatling``` under ```\user-files\simulation\PlayingWithGatling```
 4. It consist of basic login into any webapp using csv file.
